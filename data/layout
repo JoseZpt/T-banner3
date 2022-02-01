@@ -1,0 +1,392 @@
+command_not_found_handle() {
+	/data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
+}
+PS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
+echo -ne "\033]12;#0F9DBA\007"
+clear
+echo""
+echo""
+echo""
+echo""
+echo""
+echo""
+echo""
+echo""
+echo"" 
+echo""
+echo""
+echo""
+echo""
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo""
+echo""
+echo""
+echo""
+echo "               "/█1%...................../
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/█4%....................../
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/█8%......................./
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/██10%....................../
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/██12%....................../
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/███15%..................../
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "               "/█████19%..................../
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "               "/██████28%..................../
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/████████30%................../
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/██████████40%................/
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/█████████████50%............./
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/████████████████60%........../
+sleep 0.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo -e '\033[0m\033[1;32m
+                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
+                     │  │ │├─┤ │││││││ ┬
+                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
+\033[0m'
+echo " "
+echo " "
+echo " "
+echo " "
+echo "                "/███████████████████88%......./
+sleep 2.0
+clear
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+clear
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo -e "\033[1;32m
+$(toilet -f shadow finish)
+                                                
+\033[0m"
+echo ""
+echo ""
+echo "               "[██████████████████████ 100%]
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+sleep 1.0
+clear
+echo -e '\033[0m\033[1;32m _____ 
+< sub_name >
+ ----- 
+    \ \033[0m'
+toilet -f smmono12 -f pagga -F border -F gay      ' name '
+sleep 0.6
+echo
